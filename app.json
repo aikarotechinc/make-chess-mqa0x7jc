@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "make-chess-mqa0x7jc",
+    "slug": "make-chess-mqa0x7jc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f1419"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mypip.makechessmqa0x7jc"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f1419"
+      },
+      "package": "com.mypip.makechessmqa0x7jc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
